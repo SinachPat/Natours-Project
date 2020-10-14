@@ -1,0 +1,16 @@
+// Setting the imports
+
+@import "base/base";
+@import "base/animation";
+@import "base/typography";
+@import "base/utility";
+
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "component/button";
+
+@import "layout/header";
+
+@import "pages/home";

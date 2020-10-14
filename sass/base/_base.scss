@@ -1,0 +1,15 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+
+}
+html {
+    /* This font-size: 62.5%; is the 10px of 16px which is the original size of all web fonts. This defines what 1rem*/
+    font-size: 62.5%;
+}
+body {
+    box-sizing: border-box;
+}
